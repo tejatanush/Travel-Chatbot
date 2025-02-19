@@ -8,3 +8,4 @@ torch
 Flask
 Jinja2
 requests
+gunicorn
